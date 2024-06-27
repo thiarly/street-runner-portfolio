@@ -20,19 +20,19 @@ const observer = new IntersectionObserver( (elements) => {
             switch(input.id) {
                 case 'number1':
                     if (!occurredNumber1) {
-                        increaseNumber(elements[i].target, 10, 10, 10)
+                        increaseNumber(elements[i].target, 7, 7, 7)
                         occurredNumber1 = true
                     }
                     break
                 case 'number2':
                     if(!occurredNumber2) {
-                        increaseNumber(elements[i].target, 0.1, 0.19, 180)
+                        increaseNumber(elements[i].target, 0.1, 0.19, 20)
                         occurredNumber2 = true
                     }
                     break
                 case 'number3':
                     if(!occurredNumber3) {
-                        increaseNumber(elements[i].target, 0.1, 0.1999, 200)
+                        increaseNumber(elements[i].target, 0.1, 0.1999, 80)
                         occurredNumber3 = true
                     }
                     break
