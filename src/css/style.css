@@ -70,7 +70,7 @@ a {
 .dropdown-item.active, .dropdown-item:active {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    background-color: #7EB300;
+    background-color: #001831;
 }
 
 .line {
@@ -115,7 +115,7 @@ a {
 .start {
     width: 100%;
     height: 100vh;
-    background: radial-gradient(68.58% 67.02% at 50% 50%, rgba(0, 0, 0, 0.00) 53.6%, rgba(0, 0, 0, 0.50) 91.75%), url("../img/landspace.webp"), lightgray 50%;
+    background: radial-gradient(68.58% 67.02% at 50% 50%, rgba(0, 0, 0, 0.00) 53.6%, rgba(0, 0, 0, 0.50) 91.75%), url("../img/3.jpg"), lightgray 50%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 30%; 
@@ -157,7 +157,7 @@ a {
 }
 
 .title-2 {
-    color: #7EB300;
+    color: #001831;
 }
 
 .title {
@@ -246,7 +246,7 @@ a {
 
 /******************* data *******************/
 h2 {
-    color: rgba(126, 179, 0, 0.80);
+    color: #003061;
     font-family: Biryani;
     font-size: 5rem;
     margin-bottom: 0;
@@ -355,8 +355,8 @@ h2 {
 
 .btn-success {
     color: #fff;
-    background-color: #7EB300;
-    border-color: #7EB300;
+    background-color: #003061;
+    border-color: #003061;
 }
 
 .btn {
@@ -365,25 +365,25 @@ h2 {
 
 .btn-success:hover {
     color: #fff;
-    background-color: #76a801;
-    border-color: #76a801;
+    background-color: #001831;
+    border-color: #001831;
 }
 
 .btn-success:focus {
     color: rgb(255, 255, 255);
-    background-color: #76a801;
-    border-color: #76a801;
-    box-shadow: #76a801 0px 0px 0px 0.2rem;
+    background-color: #001831;
+    border-color: #001831;
+    box-shadow: #001831 0px 0px 0px 0.2rem;
 }
 
 .btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
     color: #fff;
-    background-color: #76a801;
-    border-color: #76a801;
+    background-color: #001831;
+    border-color: #001831;
 }
 
 .btn-success:not(:disabled):not(.disabled):active:focus, .show > .btn-success.dropdown-toggle:focus, .btn-success:focus {
-    box-shadow: #a9e421 0px 0px 0px 0.2rem;
+    box-shadow: #001831 0px 0px 0px 0.2rem;
 }
 
 .sponsorship-issue .text-copyright {
