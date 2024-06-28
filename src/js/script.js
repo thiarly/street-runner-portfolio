@@ -26,13 +26,13 @@ const observer = new IntersectionObserver( (elements) => {
                     break
                 case 'number2':
                     if(!occurredNumber2) {
-                        increaseNumber(elements[i].target, 0.1, 0.19, 20)
+                        increaseNumber(elements[i].target, 0.1, 0.19, 24)
                         occurredNumber2 = true
                     }
                     break
                 case 'number3':
                     if(!occurredNumber3) {
-                        increaseNumber(elements[i].target, 0.1, 0.1999, 80)
+                        increaseNumber(elements[i].target, 0.1, 0.1999, 40)
                         occurredNumber3 = true
                     }
                     break
