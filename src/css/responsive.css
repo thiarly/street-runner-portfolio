@@ -64,7 +64,7 @@
     }
 
     .visible {
-        display: none;
+        display: block;
     }
 }
 
