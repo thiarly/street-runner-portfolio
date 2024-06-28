@@ -1,0 +1,37 @@
+            <div class="col-4">
+              <div class="row title">
+                <div class="col-md-auto">
+                  <h1 class="title-1">Triatleta e Corredor de rua</h1>
+                  <br>
+                </div>
+                <div class="col-md-auto">
+                  <h1 class="title-2"> há mais de 7 anos</h1>
+                </div>
+                <div class="text">
+                  <p>Sou um triatleta representado pela TEAM Turtera, minha assessoria e treinador. Compito em triatlon em níveis nacional e mundial, disputando vagas para os campeonatos mundiais de Iron Man e da marca Challenge.</p>
+                  <p>Já representei o Brasil em competições internacionais, incluindo o Mundial 70.3. Participei de dois Iron Man Full em Florianópolis, além de diversas corridas de rua e triatlon na distância sprint em locais como Rio de Janeiro, Fortaleza e São Paulo, e algumas provas de duatlo.</p>
+                  <p>Cada competição é uma oportunidade para superar limites e representar minha equipe com orgulho, levando o nome do Brasil aos palcos globais.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+              <div class="carousel-item">
+                <div class="row align-items-center items-body">
+                  <div class="col">
+                    <img class="img-fluid image-gallery" src="src/img/photos/carousel/tridaybase.jpg" alt="Thiarly no pódio de noite">
+                  </div>
+                  <div class="col">
+                    <img class="img-fluid image-gallery" src="src/img/photos/carousel/tridaycampeonato.jpg" alt="Thiarly correndo com igreja iluminada atrás">
+                  </div>
+                  <div class="col">
+                    <img class="img-fluid image-gallery" src="src/img/photos/carousel/tridayev.jpg" alt="Thiarly correndo em uma trilha">
+                  </div>
+                  <div class="col">
+                    <img class="img-fluid image-gallery" src="src/img/photos/carousel/tridayusp.jpg" alt="Thiarly atravessando a faixa de chegada">
+                  </div>
+                </div>
+              </div>
+
